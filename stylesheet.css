@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Syllabic - Western';
+    src: url('SyllabicWestern.woff2') format('woff2'),
+        url('SyllabicWestern.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
