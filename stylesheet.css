@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Syllabic - Western';
-    src: url('SyllabicWestern.woff2') format('woff2'),
-        url('SyllabicWestern.woff') format('woff');
+    src: url('https://stufinn.github.io/Syllabic-Western/SyllabicWestern.woff2') format('woff2'),
+        url('https://stufinn.github.io/Syllabic-Western/SyllabicWestern.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
